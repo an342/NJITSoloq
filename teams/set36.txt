@@ -1,0 +1,5 @@
+Team 0:	Top: lunatunes {400}	Jungle: notnikko {96}	Mid: vayler {412}	Bot: warlock {25}	Support: dj dhan {200}	1133
+Team 1:	Top: xvi swagmaster {120}	Jungle: whatsagoodname23 {240}	Mid: aganju {210}	Bot: expound {412}	Support: moogediii {20}	1002
+Team 2:	Top: targoon {240}	Jungle: koxxen {40}	Mid: minnieg {140}	Bot: kenhji {375}	Support: moosterman {246}	1041
+Team 3:	Top: kid torcher {320}	Jungle: il berserker li {320}	Mid: cleanuptitan {62}	Bot: hudki {320}	Support: gengarstar {50}	1072
+Team 4:	Top: mandar {50}	Jungle: resvoir {130}	Mid: im toxic plz kys {500}	Bot: das 1 ginger {110}	Support: mrchiconator {210}	1000

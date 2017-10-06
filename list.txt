@@ -1,0 +1,25 @@
+Fahad Fardeen	aff9@njit.edu	Vayler	2	4	5 (Highly Preferred)	4	1 (Least Preferred)
+antonio maneira	alm34	Das 1 Ginger	4	4	4	4	1 (Least Preferred)
+Bill Ngo	bn62	XVI SwagMaster	5 (Highly Preferred)	1 (Least Preferred)	3	5 (Highly Preferred)	4
+Jeremy Luna	cjl54@njit.edu	LunaTunes	5 (Highly Preferred)	4	5 (Highly Preferred)	1 (Least Preferred)	1 (Least Preferred)
+Christian Lee	cl493@njit.edu	Hudki	2	1 (Least Preferred)	5 (Highly Preferred)	4	1 (Least Preferred)
+Daniel Han	dh274@njit.edu	DJ DHAN	4	2	3	1 (Least Preferred)	5 (Highly Preferred)
+Deion Garrison	dsg24@njit.edu	Resvoir	4	5 (Highly Preferred)	3	2	1 (Least Preferred)
+Franklin Estrella	fae4	im toxic plz kys	2	3	5 (Highly Preferred)	4	1 (Least Preferred)
+Francisco Torres	fit3@njit.edu	CleanupTitan	4	2	5 (Highly Preferred)	3	2
+jithin civichan	jc662@njit.edu	Expound	1 (Least Preferred)	1 (Least Preferred)	2	5 (Highly Preferred)	1 (Least Preferred)
+Devang Sinha	kbt5@njit.edu	Warlock	5 (Highly Preferred)	4	3	2	1 (Least Preferred)
+Kevin Le	kl329@njit.edu	kenhji	4	3	3	5 (Highly Preferred)	1 (Least Preferred)
+Minji Jeong	mj323@njit.edu	MinnieG	2	1 (Least Preferred)	4	3	5 (Highly Preferred)
+Marco Fernandez	msf8@njit.edu	Koxxen	4	4	4	3	2
+mandar malve	mum8@njit.edu	mandar	5 (Highly Preferred)	4	5 (Highly Preferred)	5 (Highly Preferred)	5 (Highly Preferred)
+Namrath Aruva	na356@njit.edu	whatsagoodname23	4	5 (Highly Preferred)	1 (Least Preferred)	3	2
+Nikko Ong	no63	notnikko	4	2	3	5 (Highly Preferred)	1 (Least Preferred)
+Omayemi Agbeyegbe	oa93	Aganju	5 (Highly Preferred)	2	4	3	1 (Least Preferred)
+Randy Azzam	ra442	MOOSTERMAN	1 (Least Preferred)	2	4	5 (Highly Preferred)	3
+Robert Cuber	rec24	targoon	5 (Highly Preferred)	2	2	3	1 (Least Preferred)
+Richard Wan	rhw2@njit.edu	gengarstar	2	1 (Least Preferred)	4	2	5 (Highly Preferred)
+Reza Wang-Lotfi	rw98@njit.edu	moogediii	4	3	4	4	2
+Steve Diaz	sd487	kid torcher	5 (Highly Preferred)	2	4	1 (Least Preferred)	1 (Least Preferred)
+Sean Leishman	sl599@njit.edu	MrChiconator	4	1 (Least Preferred)	1 (Least Preferred)	1 (Least Preferred)	5 (Highly Preferred)
+Tianyi Jiang	tj67	Il Berserker lI	2	4	3	1 (Least Preferred)	5 (Highly Preferred)
