@@ -24,7 +24,7 @@ rate=[0]
 players=dict()
 roles={"Top":[],"Jungle":[],"Mid":[],"Bot":[],"Support":[]}
 conn=urllib3.PoolManager(cert_reqs='CERT_REQUIRED', ca_certs=certifi.where(),timeout=2.0)
-KEY = "RGAPI-6113553d-c4f3-437c-a5c1-6d440c4cbe46"
+KEY = ""
 
 global teams; teams={}
 
